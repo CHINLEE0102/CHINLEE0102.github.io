@@ -1,0 +1,135 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="planet8.com" resolutions="1x,2x" timestamp="1608803581123">
+  <folder name="css">
+    <file name="site_global.css" crc="4241300980"/>
+    <file name="index.css" crc="335862919" ref="index"/>
+    <file name="1.css" crc="228808847" ref="1"/>
+    <file name="2.css" crc="231622918" ref="2"/>
+    <file name="3.css" crc="435323084" ref="3"/>
+  </folder>
+  <folder name="assets">
+    <file name="20201216-001_李沁.tif" crc="4053288587" seo="true" mt="1608182491000"/>
+    <file name="try2.mp4" crc="107222615" seo="true" mt="1608475400000"/>
+    <file name="chinver3.avi" crc="3789389362" seo="true" mt="1608726404000"/>
+    <file name="moonnight.avi" crc="107314517" seo="true" mt="1603802510000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1:2:3"/>
+    <file name="museutils.js" crc="4232573551" ref="index:1:2:3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1:2:3"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:1:2:3"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:1:2:3"/>
+    <file name="require.js" crc="4234670167" ref="index:1:2:3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:1"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="1"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="1"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="1"/>
+    <file name="touchswipe.js" crc="3912873526" ref="1"/>
+  </folder>
+  <folder name="images">
+    <file name="20201216-001_李沁.jpg" crc="4049633700" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="introwords_工作區域 1.png" crc="4234985031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mount.png" crc="3986418642" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mount_2x.png" crc="362134892" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mount2120x1075.png" crc="298764558" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="mount2120x1075_2x.png" crc="435710520" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="u283-4.png" crc="3805904203" ref="2"/>
+    <file name="u283-4_2x.png" crc="3909469374" ref="2"/>
+    <file name="u288-6.png" crc="238936124" ref="index"/>
+    <file name="u288-6_2x.png" crc="143454988" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="1"/>
+    <file name="loading.gif" crc="3815509949" ref="1"/>
+    <file name="u762-4.png" crc="4153615671" ref="index"/>
+    <file name="u762-4_2x.png" crc="3882054067" ref="index"/>
+    <file name="chinfinal.gif" crc="3802258971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chinfinal_2x.gif" crc="3802258971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="文件 159_2_1.jpg" crc="113172743" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_2_1_2x.jpg" crc="219629007" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_3_1.jpg" crc="4043178554" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_3_1_2x.jpg" crc="3850241445" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_4_1.jpg" crc="84758949" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_4_1_2x.jpg" crc="4250465736" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_5_1.jpg" crc="207351088" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_5_1_2x.jpg" crc="3857332576" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_6_1.jpg" crc="4142277405" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_6_1_2x.jpg" crc="4167955584" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_7_1.jpg" crc="414443783" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_7_1_2x.jpg" crc="448159663" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_8_1.jpg" crc="224775086" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="文件 159_8_1_2x.jpg" crc="3916109646" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="u962-4.png" crc="229134667" ref="2"/>
+    <file name="u962-4_2x.png" crc="323830917" ref="2"/>
+    <file name="button-圖層 1.png" crc="4090499899" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="button-圖層 1_2x.png" crc="295785716" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="button-圖層 2.png" crc="4053103663" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="button-圖層 2_2x.png" crc="408461291" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="button-圖層 3.png" crc="209839257" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="button-圖層 3_2x.png" crc="163587410" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="familysnow.gif" crc="378430529" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="familysnow_2x.gif" crc="378430529" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="503983417" seo="true" mt="1608803576005" redirect="true"/>
+  <file name="1.html" crc="4136518499" seo="true" mt="1608803564133" redirect="true"/>
+  <file name="2.html" crc="4086082834" seo="true" mt="1608802645324" redirect="true"/>
+  <file name="3.html" crc="279485194" seo="true" mt="1608803433589" redirect="true"/>
+</manifest>
