@@ -10,38 +10,35 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <title>首頁</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4241300980"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=335862919" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=307159962"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=485350933" id="pagesheet"/>
    </head>
  <body>
 
   <div class="clearfix" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pu130"><!-- group -->
-    <div class="museBGSize clearfix grpelem" id="u130"><!-- group -->
-     <div class="clip_frame grpelem" id="u141"><!-- image -->
-      <img class="block" id="u141_img" src="images/introwords_%e5%b7%a5%e4%bd%9c%e5%8d%80%e5%9f%9f%201.png?crc=4234985031" alt="" width="1109" height="624"/>
-     </div>
-     <div class="museBGSize grpelem" id="u220"><!-- simple frame --></div>
-    </div>
-    <div class="clearfix grpelem" id="u231"><!-- group -->
-     <div class="clip_frame grpelem" id="u768"><!-- image -->
-      <img class="block" id="u768_img" src="images/chinfinal.gif?crc=3802258971" data-hidpi-src="images/chinfinal_2x.gif?crc=3802258971" alt="" width="540" height="540"/>
-     </div>
-    </div>
+   <div class="clip_frame grpelem" id="u4054"><!-- image -->
+    <img class="block" id="u4054_img" src="images/grid.png?crc=232720923" data-hidpi-src="images/grid_2x.png?crc=4036836789" alt="" width="656" height="369"/>
    </div>
-   <div class="clearfix grpelem" id="pu234"><!-- group -->
-    <div class="shadow" id="u234"><!-- simple frame --></div>
-    <img class="pointer_cursor" id="u288-6" alt="Story" width="62" height="49" src="images/u288-6.png?crc=238936124" data-hidpi-src="images/u288-6_2x.png?crc=143454988"><!-- rasterized frame -->
-     <a class="block" href="2.html"><!-- Block link tag --></a>
-    </img>
-    <a class="nonblock nontext" id="u762-4" href="1.html"><!-- rasterized frame --><img id="u762-4_img" alt="Works" width="71" height="64" src="images/u762-4.png?crc=4153615671" data-hidpi-src="images/u762-4_2x.png?crc=3882054067"/></a>
-   </div>
-   <div class="verticalspacer" data-offset-top="3212" data-content-above-spacer="3212" data-content-below-spacer="61"></div>
+   <a class="nonblock nontext museBGSize grpelem" id="u4064" href="contact.html"><!-- simple frame --></a>
+   <a class="nonblock nontext museBGSize grpelem" id="u4082" href="story.html"><!-- simple frame --></a>
+   <a class="nonblock nontext museBGSize grpelem" id="u4100" href="projects.html"><!-- simple frame --></a>
+   <a class="nonblock nontext museBGSize grpelem" id="u4241" href="works.html"><!-- simple frame --></a>
+   <div class="verticalspacer" data-offset-top="537" data-content-above-spacer="536" data-content-below-spacer="65"></div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/contact-%e5%9c%96%e5%b1%a4%202%20%e6%8b%b7%e8%b2%9d.png?crc=4010840157" alt=""/>
+   <img class="preload" src="images/contact-%e5%9c%96%e5%b1%a4%202%20%e6%8b%b7%e8%b2%9d_2x.png?crc=144397063" alt=""/>
+   <img class="preload" src="images/story-%e5%9c%96%e5%b1%a4%202.png?crc=4252026550" alt=""/>
+   <img class="preload" src="images/story-%e5%9c%96%e5%b1%a4%202_2x.png?crc=3835847879" alt=""/>
+   <img class="preload" src="images/projects-%e7%be%a4%e7%b5%84%201%20%e6%8b%b7%e8%b2%9d.png?crc=283880515" alt=""/>
+   <img class="preload" src="images/projects-%e7%be%a4%e7%b5%84%201%20%e6%8b%b7%e8%b2%9d_2x.png?crc=422001673" alt=""/>
+   <img class="preload" src="images/works-%e5%9c%96%e5%b1%a4%202%20%e6%8b%b7%e8%b2%9d.png?crc=4171597046" alt=""/>
+   <img class="preload" src="images/works-%e5%9c%96%e5%b1%a4%202%20%e6%8b%b7%e8%b2%9d_2x.png?crc=362996486" alt=""/>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -49,14 +46,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="伺服器上的某些檔案可能遺失或不正確。請清除瀏覽器快取後再試一次。若問題持續發生，請聯絡網站作者。",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch","jquery.scrolleffects"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u220').registerBackgroundPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0.05]},{"speed":[0,1],"in":[0.05,Infinity]}]);/* scroll effect */
-$('#u130').registerBackgroundPositionScrollEffect([{"speed":[0,0.5],"in":[-Infinity,0]},{"speed":[0,0.5],"in":[0,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
