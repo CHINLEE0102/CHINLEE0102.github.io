@@ -1,0 +1,365 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="planet8.com" resolutions="1x,2x" timestamp="1624268934089">
+  <folder name="css">
+    <file name="site_global.css" crc="307159962"/>
+    <file name="contact.css" crc="4273306278" ref="contact"/>
+    <file name="glimpse.css" crc="4025267815" ref="glimpse"/>
+    <file name="ariel-yu-name-card-design.css" crc="4246797430" ref="ariel-yu-name-card-design"/>
+    <file name="index.css" crc="485350933" ref="index"/>
+    <file name="story.css" crc="4233672866" ref="story"/>
+    <file name="herewearethelight.css" crc="192513397" ref="herewearethelight"/>
+    <file name="projects.css" crc="316147695" ref="projects"/>
+    <file name="works.css" crc="116869073" ref="works"/>
+    <file name="2021cnycelebration.css" crc="72178099" ref="2021cnycelebration"/>
+    <file name="admire.css" crc="3998422767" ref="admire"/>
+  </folder>
+  <folder name="assets">
+    <file name="20201216-001_李沁.tif" crc="4053288587" seo="true" mt="1608182491000"/>
+    <file name="try2.mp4" crc="107222615" seo="true" mt="1608475400000"/>
+    <file name="chinver3.avi" crc="3789389362" seo="true" mt="1608726404000"/>
+    <file name="moonnight.avi" crc="107314517" seo="true" mt="1603802510000"/>
+    <file name="herewearethelight.mp4" crc="4056987714" seo="true" mt="1623913149000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:projects:works:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire"/>
+    <file name="museutils.js" crc="4232573551" ref="index:contact:projects:works:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:projects:works:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:contact:projects:works:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:projects"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:contact:projects:works:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire"/>
+    <file name="require.js" crc="4234670167" ref="index:contact:projects:works:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire"/>
+  </folder>
+  <folder name="images">
+    <file name="grid.png" crc="232720923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grid_2x.png" crc="4036836789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-圖層 2.png" crc="181346534" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-圖層 2_2x.png" crc="529476497" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-圖層 2 拷貝.png" crc="4010840157" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-圖層 2 拷貝_2x.png" crc="144397063" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="story-圖層 2 拷貝.png" crc="141848438" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="story-圖層 2 拷貝_2x.png" crc="345496483" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="story-圖層 2.png" crc="4252026550" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="story-圖層 2_2x.png" crc="3835847879" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="projects-群組 1.png" crc="3768393507" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="projects-群組 1_2x.png" crc="4264296271" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="projects-群組 1 拷貝.png" crc="283880515" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="projects-群組 1 拷貝_2x.png" crc="422001673" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="works-圖層 2.png" crc="437562541" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="works-圖層 2_2x.png" crc="3984673912" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="works-圖層 2 拷貝.png" crc="4171597046" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="works-圖層 2 拷貝_2x.png" crc="362996486" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iglogo.png" crc="148784730" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="iglogo_2x.png" crc="3842891539" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="igqrcode.jpg" crc="277034620" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="igqrcode_2x.jpg" crc="25664540" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="fblogo.png" crc="192180442" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="fblogo_2x.png" crc="4033654667" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="p8.jpg" crc="3994126389" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="p8_2x.jpg" crc="26187133" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="glimpsebutton-圖層 0.jpg" crc="278648090" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="glimpsebutton-圖層 0_2x.jpg" crc="76860793" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="glimpsebutton-w111.jpg" crc="4120146547" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="glimpsebutton-w111_2x.jpg" crc="4158313897" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="here-1.jpg" crc="133985014" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="here-1_2x.jpg" crc="4009952202" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="here-2.jpg" crc="20109908" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="here-2_2x.jpg" crc="4272032844" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="u4047-4.png" crc="4268438641" ref="projects"/>
+    <file name="u4047-4_2x.png" crc="367560761" ref="projects"/>
+    <file name="cnyoxbutton.jpg" crc="3822385292" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="cnyoxbutton_2x.jpg" crc="3960226148" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="cnyoxbutton-2021notexture.png" crc="4137009177" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="cnyoxbutton-2021notexture_2x.png" crc="4255095060" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="mtsea-1.jpg" crc="4088643756" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="mtsea-1_2x.jpg" crc="4223275669" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="mtsea-2.jpg" crc="4176413760" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="mtsea-2_2x.jpg" crc="4045517907" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="arielbutton-okusethisfaceside 拷貝.png" crc="3987148467" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="arielbutton-okusethisfaceside 拷貝_2x.png" crc="4031359846" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="arielbutton-okusethisfaceside.jpg" crc="398126130" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="arielbutton-okusethisfaceside_2x.jpg" crc="4061934264" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="u3917-4.png" crc="157727366" ref="works"/>
+    <file name="u3917-4_2x.png" crc="365622639" ref="works"/>
+    <file name="125294770_1489697727897571_7957418901063942444_o.jpg" crc="4213036833" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="125294770_1489697727897571_7957418901063942444_o_2x.jpg" crc="4150131723" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="131290598_1513410835526260_6114936449571158066_o.jpg" crc="4102581741" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="131290598_1513410835526260_6114936449571158066_o_2x.jpg" crc="4090720141" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="124457328_1485053681695309_5757825031382660404_o.jpg" crc="138938150" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="124457328_1485053681695309_5757825031382660404_o_2x.jpg" crc="4017339250" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="127783493_1497837867083557_570822586127030934_o.jpg" crc="4045834240" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="127783493_1497837867083557_570822586127030934_o_2x.jpg" crc="147778051" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="139256911_1535985179935492_6761273479361485891_n.jpg" crc="3810573282" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="139256911_1535985179935492_6761273479361485891_n_2x.jpg" crc="4165112985" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="128540066_1504945823039428_7499517725215629897_o.jpg" crc="290465446" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="128540066_1504945823039428_7499517725215629897_o_2x.jpg" crc="3874047862" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="130272953_1507626462771364_2553845820008930004_o.jpg" crc="473905455" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="130272953_1507626462771364_2553845820008930004_o_2x.jpg" crc="3836722938" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="129873363_1506882149512462_7483292489191357980_o.jpg" crc="4011030182" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="129873363_1506882149512462_7483292489191357980_o_2x.jpg" crc="308977379" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="2021.jpg" crc="3906947374" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="2021_2x.jpg" crc="4075700830" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="story.jpg" crc="4256635328" seo="true" ref="story">
+      <caption webpage="story" alt=""/>
+    </file>
+    <file name="story_2x.jpg" crc="3787241828" seo="true" ref="story">
+      <caption webpage="story" alt=""/>
+    </file>
+    <file name="meetyou.png" crc="3780354735" seo="true" ref="story">
+      <caption webpage="story" alt=""/>
+    </file>
+    <file name="meetyou_2x.png" crc="186045171" seo="true" ref="story">
+      <caption webpage="story" alt=""/>
+    </file>
+    <file name="niceto.png" crc="3866146910" seo="true" ref="story">
+      <caption webpage="story" alt=""/>
+    </file>
+    <file name="niceto_2x.png" crc="4064724676" seo="true" ref="story">
+      <caption webpage="story" alt=""/>
+    </file>
+    <file name="glimpse.png" crc="266218573" seo="true" ref="glimpse">
+      <caption webpage="glimpse" alt=""/>
+    </file>
+    <file name="love.jpg" crc="3953466251" seo="true" ref="glimpse">
+      <caption webpage="glimpse" alt=""/>
+    </file>
+    <file name="love_2x.jpg" crc="453815680" seo="true" ref="glimpse">
+      <caption webpage="glimpse" alt=""/>
+    </file>
+    <file name="explore.jpg" crc="396298620" seo="true" ref="glimpse">
+      <caption webpage="glimpse" alt=""/>
+    </file>
+    <file name="explore_2x.jpg" crc="4155372705" seo="true" ref="glimpse">
+      <caption webpage="glimpse" alt=""/>
+    </file>
+    <file name="238pieces.jpg" crc="454850185" seo="true" ref="glimpse">
+      <caption webpage="glimpse" alt=""/>
+    </file>
+    <file name="238pieces_2x.jpg" crc="246717119" seo="true" ref="glimpse">
+      <caption webpage="glimpse" alt=""/>
+    </file>
+    <file name="open.jpg" crc="512880923" seo="true" ref="glimpse">
+      <caption webpage="glimpse" alt=""/>
+    </file>
+    <file name="open_2x.jpg" crc="4254199965" seo="true" ref="glimpse">
+      <caption webpage="glimpse" alt=""/>
+    </file>
+    <file name="工作區域 1.jpg" crc="3878731201" seo="true" ref="2021cnycelebration">
+      <caption webpage="2021cnycelebration" alt=""/>
+    </file>
+    <file name="工作區域 2.jpg" crc="72633291" seo="true" ref="2021cnycelebration">
+      <caption webpage="2021cnycelebration" alt=""/>
+    </file>
+    <file name="工作區域 3.jpg" crc="79963399" seo="true" ref="2021cnycelebration">
+      <caption webpage="2021cnycelebration" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3790733918" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="1_2x.jpg" crc="216140155" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="2.jpg" crc="205233480" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="2_2x.jpg" crc="463821111" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="5.jpg" crc="24844650" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="5_2x.jpg" crc="4135439781" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="6.jpg" crc="4281700546" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="6_2x.jpg" crc="3945997512" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="4.jpg" crc="440731279" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="4_2x.jpg" crc="3845622388" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="3.jpg" crc="188020311" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="3_2x.jpg" crc="7699003" seo="true" ref="ariel-yu-name-card-design">
+      <caption webpage="ariel-yu-name-card-design" alt=""/>
+    </file>
+    <file name="comp 1_00000.jpg" crc="4118254846" seo="true" ref="herewearethelight">
+      <caption webpage="herewearethelight" alt=""/>
+    </file>
+    <file name="here_words.jpg" crc="3875627173" seo="true" ref="herewearethelight">
+      <caption webpage="herewearethelight" alt=""/>
+    </file>
+    <file name="firstsight.jpg" crc="31452261" seo="true" ref="admire">
+      <caption webpage="admire" alt=""/>
+    </file>
+    <file name="firstsight_2x.jpg" crc="429654614" seo="true" ref="admire">
+      <caption webpage="admire" alt=""/>
+    </file>
+    <file name="mtseatitle.png" crc="3839235416" seo="true" ref="admire">
+      <caption webpage="admire" alt=""/>
+    </file>
+    <file name="mtseatitle_2x.png" crc="230975252" seo="true" ref="admire">
+      <caption webpage="admire" alt=""/>
+    </file>
+    <file name="admirediscription.png" crc="4100925187" seo="true" ref="admire">
+      <caption webpage="admire" alt=""/>
+    </file>
+    <file name="admirediscription_2x.png" crc="300086095" seo="true" ref="admire">
+      <caption webpage="admire" alt=""/>
+    </file>
+    <file name="12.jpg" crc="291469144" seo="true" ref="admire">
+      <caption webpage="admire" alt=""/>
+    </file>
+    <file name="1_2x2.jpg" crc="4247617310" seo="true" ref="admire">
+      <caption webpage="admire" alt=""/>
+    </file>
+    <file name="admire_painting_discription.png" crc="4041432578" seo="true" ref="admire">
+      <caption webpage="admire" alt=""/>
+    </file>
+    <file name="admire_painting_discription_2x.png" crc="3785624650" seo="true" ref="admire">
+      <caption webpage="admire" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4242643903" seo="true" mt="1611141615072" redirect="true"/>
+  <file name="contact.html" crc="4107301842" seo="true" mt="1624254445646" redirect="true"/>
+  <file name="projects.html" crc="176504116" seo="true" mt="1624259356238" redirect="true"/>
+  <file name="works.html" crc="3804773088" seo="true" mt="1611139109824" redirect="true"/>
+  <file name="story.html" crc="478980776" seo="true" mt="1611139504035" redirect="true"/>
+  <file name="glimpse.html" crc="4226385730" seo="true" mt="1624255819874" redirect="true"/>
+  <file name="2021cnycelebration.html" crc="350586629" seo="true" mt="1613309105502" redirect="true"/>
+  <file name="ariel-yu-name-card-design.html" crc="350835708" seo="true" mt="1613309810249" redirect="true"/>
+  <file name="herewearethelight.html" crc="332081962" seo="true" mt="1624258972307" redirect="true"/>
+  <file name="admire.html" crc="212477870" seo="true" mt="1624262078366" redirect="true"/>
+</manifest>
