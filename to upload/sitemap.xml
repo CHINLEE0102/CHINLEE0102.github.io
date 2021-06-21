@@ -95,7 +95,7 @@
   </url>
   <url>
     <loc>http://planet8.com/glimpse.html</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -122,10 +122,13 @@
     <image:image>
       <image:loc>http://planet8.com/images/open_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/glimpse.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://planet8.com/contact.html</loc>
-    <lastmod>2021-01-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

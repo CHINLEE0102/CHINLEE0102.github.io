@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="planet8.com" resolutions="1x,2x" timestamp="1613309820679">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="planet8.com" resolutions="1x,2x" timestamp="1624255729731">
   <folder name="css">
-    <file name="site_global.css" crc="307159962"/>
+    <file name="site_global.css" crc="4241300980"/>
     <file name="index.css" crc="485350933" ref="index"/>
     <file name="projects.css" crc="499823038" ref="projects"/>
     <file name="contact.css" crc="4273306278" ref="contact"/>
     <file name="works.css" crc="116869073" ref="works"/>
     <file name="story.css" crc="4233672866" ref="story"/>
     <file name="ariel-yu-name-card-design.css" crc="4246797430" ref="ariel-yu-name-card-design"/>
-    <file name="glimpse.css" crc="4094264952" ref="glimpse"/>
+    <file name="glimpse.css" crc="152407856" ref="glimpse"/>
     <file name="2021cnycelebration.css" crc="72178099" ref="2021cnycelebration"/>
   </folder>
   <folder name="assets">
@@ -293,13 +293,16 @@
     <file name="3_2x.jpg" crc="7699003" seo="true" ref="ariel-yu-name-card-design">
       <caption webpage="ariel-yu-name-card-design" alt=""/>
     </file>
+    <file name="glimpse.png" crc="266218573" seo="true" ref="glimpse">
+      <caption webpage="glimpse" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4242643903" seo="true" mt="1611141615072" redirect="true"/>
-  <file name="contact.html" crc="20857218" seo="true" mt="1611141502677" redirect="true"/>
+  <file name="contact.html" crc="437015289" seo="true" mt="1624254445646" redirect="true"/>
   <file name="projects.html" crc="99464415" seo="true" mt="1613309345245" redirect="true"/>
   <file name="works.html" crc="3804773088" seo="true" mt="1611139109824" redirect="true"/>
   <file name="story.html" crc="478980776" seo="true" mt="1611139504035" redirect="true"/>
-  <file name="glimpse.html" crc="454745410" seo="true" mt="1613308340359" redirect="true"/>
+  <file name="glimpse.html" crc="4127644820" seo="true" mt="1624255722509" redirect="true"/>
   <file name="2021cnycelebration.html" crc="350586629" seo="true" mt="1613309105502" redirect="true"/>
   <file name="ariel-yu-name-card-design.html" crc="350835708" seo="true" mt="1613309810249" redirect="true"/>
 </manifest>
