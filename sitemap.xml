@@ -13,12 +13,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://planet8.com/projects.html</loc>
-    <lastmod>2021-06-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://planet8.com/works.html</loc>
     <lastmod>2021-01-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,7 +74,7 @@
   </url>
   <url>
     <loc>http://planet8.com/story.html</loc>
-    <lastmod>2021-01-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -101,89 +95,53 @@
     <image:image>
       <image:loc>http://planet8.com/images/niceto_2x.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://planet8.com/herewearethelight.html</loc>
-    <lastmod>2021-06-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://planet8.com/images/comp%201_00000.jpg</image:loc>
+      <image:loc>http://planet8.com/images/dsc_7310.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/here_words.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://planet8.com/ariel-yu-name-card-design.html</loc>
-    <lastmod>2021-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://planet8.com/images/1.jpg</image:loc>
+      <image:loc>http://planet8.com/images/dsc_7310_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/1_2x.jpg</image:loc>
+      <image:loc>http://planet8.com/images/profilecaption1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/2.jpg</image:loc>
+      <image:loc>http://planet8.com/images/profilecaption1_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/2_2x.jpg</image:loc>
+      <image:loc>http://planet8.com/images/profilecaption2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/5.jpg</image:loc>
+      <image:loc>http://planet8.com/images/profilecaption2_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/5_2x.jpg</image:loc>
+      <image:loc>http://planet8.com/images/profilecaption3.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/6.jpg</image:loc>
+      <image:loc>http://planet8.com/images/profilecaption3_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/6_2x.jpg</image:loc>
+      <image:loc>http://planet8.com/images/kvsamll.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/4.jpg</image:loc>
+      <image:loc>http://planet8.com/images/kvsamll_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/4_2x.jpg</image:loc>
+      <image:loc>http://planet8.com/images/s__4686005.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/3.jpg</image:loc>
+      <image:loc>http://planet8.com/images/s__4686005_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/3_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://planet8.com/contact.html</loc>
-    <lastmod>2021-06-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://planet8.com/images/iglogo.png</image:loc>
+      <image:loc>http://planet8.com/images/s__4686006.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/iglogo_2x.png</image:loc>
+      <image:loc>http://planet8.com/images/s__4686006_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/igqrcode.jpg</image:loc>
+      <image:loc>http://planet8.com/images/profilecaption4.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/igqrcode_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/fblogo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/fblogo_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/p8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/p8_2x.jpg</image:loc>
+      <image:loc>http://planet8.com/images/profilecaption4_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -221,6 +179,138 @@
     <image:image>
       <image:loc>http://planet8.com/images/admire_painting_discription_2x.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://planet8.com/herewearethelight.html</loc>
+    <lastmod>2021-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://planet8.com/images/comp%201_00000.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/here_words.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://planet8.com/badouyao.html</loc>
+    <lastmod>2021-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://planet8.com/images/kangbangbigs.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/kangbangbigs_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdywords.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdywords_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdycaption1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdycaption1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdycaption2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdycaption2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/335.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/335_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdycaption3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdycaption3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7457.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7457_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7479.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7479_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7466.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7466_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdycaption4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdycaption4_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7465.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7465_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/270_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/310.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/310_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://planet8.com/contact.html</loc>
+    <lastmod>2021-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://planet8.com/images/iglogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/iglogo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/igqrcode.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/igqrcode_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/fblogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/fblogo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/p8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/p8_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://planet8.com/projects.html</loc>
+    <lastmod>2021-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://planet8.com/glimpse.html</loc>
@@ -271,8 +361,50 @@
     </image:image>
   </url>
   <url>
-    <loc>http://planet8.com/assets/20201216-001_%E6%9D%8E%E6%B2%81.tif</loc>
-    <lastmod>2020-12-17</lastmod>
+    <loc>http://planet8.com/ariel-yu-name-card-design.html</loc>
+    <lastmod>2021-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://planet8.com/images/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/5_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/6_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/3_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://planet8.com/assets/herewearethelight.mp4</loc>
+    <lastmod>2021-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -283,20 +415,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://planet8.com/assets/chinver3.avi</loc>
-    <lastmod>2020-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://planet8.com/assets/herewearethelight.mp4</loc>
-    <lastmod>2021-06-17</lastmod>
+    <loc>http://planet8.com/assets/20201216-001_%E6%9D%8E%E6%B2%81.tif</loc>
+    <lastmod>2020-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://planet8.com/assets/moonnight.avi</loc>
     <lastmod>2020-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://planet8.com/assets/chinver3.avi</loc>
+    <lastmod>2020-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
