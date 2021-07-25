@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://planet8.com/index.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://planet8.com/herewearethelight.html</loc>
+    <lastmod>2021-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://planet8.com/images/comp%201_00000.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/here_words.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://planet8.com/admire.html</loc>
@@ -40,81 +52,6 @@
     </image:image>
     <image:image>
       <image:loc>http://planet8.com/images/admire_painting_discription_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://planet8.com/badouyao.html</loc>
-    <lastmod>2021-06-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://planet8.com/images/kangbangbigs.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/kangbangbigs_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/bdywords.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/bdycaption1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/bdycaption2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/335.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/335_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/bdycaption3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/bdycaption3_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/img_7457.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/img_7457_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/img_7479.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/img_7479_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/img_7466.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/img_7466_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/bdycaption4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/bdycaption4_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/img_7465.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/img_7465_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/270.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/270_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/310.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/310_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -154,24 +91,66 @@
     </image:image>
   </url>
   <url>
+    <loc>http://planet8.com/theunseenleader.html</loc>
+    <lastmod>2021-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://planet8.com/images/theunseenleader-pagebg_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/theunseenleader-pagebg_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/community.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/oneofus.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/oneofus_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/shine.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/shine_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/wwflogo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/theunseenleaderlogo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201149x13.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/theunseenleaderlogo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201149x13_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/duoleologo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/duoleologo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://planet8.com/projects.html</loc>
-    <lastmod>2021-06-21</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://planet8.com/gallery.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://planet8.com/story.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://planet8.com/images/aboutme_try1.jpg</image:loc>
+      <image:loc>http://planet8.com/images/about_me.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -265,18 +244,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://planet8.com/herewearethelight.html</loc>
-    <lastmod>2021-06-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://planet8.com/images/comp%201_00000.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/here_words.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://planet8.com/gallery-admire.html</loc>
     <lastmod>2021-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -297,12 +264,6 @@
       <image:loc>http://planet8.com/images/wwflogo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/theunseenleaderlogo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://planet8.com/images/theunseenleaderlogo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://planet8.com/images/duoleologo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png</image:loc>
     </image:image>
     <image:image>
@@ -314,47 +275,86 @@
     <image:image>
       <image:loc>http://planet8.com/images/theunseenleader-pagebgs-03_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/theunseenleaderlogo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/theunseenleaderlogo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://planet8.com/theunseenleader.html</loc>
-    <lastmod>2021-06-27</lastmod>
+    <loc>http://planet8.com/badouyao.html</loc>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://planet8.com/images/theunseenleader-pagebg_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg</image:loc>
+      <image:loc>http://planet8.com/images/kangbangbigs.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/theunseenleader-pagebg_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.jpg</image:loc>
+      <image:loc>http://planet8.com/images/kangbangbigs_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/wwflogo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png</image:loc>
+      <image:loc>http://planet8.com/images/bdywords.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/duoleologo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png</image:loc>
+      <image:loc>http://planet8.com/images/bdycaption1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/duoleologo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.png</image:loc>
+      <image:loc>http://planet8.com/images/bdycaption2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/oneofus.png</image:loc>
+      <image:loc>http://planet8.com/images/335.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/oneofus_2x.png</image:loc>
+      <image:loc>http://planet8.com/images/335_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/theunseenleaderlogo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201149x13.png</image:loc>
+      <image:loc>http://planet8.com/images/bdycaption3.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/theunseenleaderlogo_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201149x13_2x.png</image:loc>
+      <image:loc>http://planet8.com/images/bdycaption3_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/community.png</image:loc>
+      <image:loc>http://planet8.com/images/img_7457.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/shine.png</image:loc>
+      <image:loc>http://planet8.com/images/img_7457_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://planet8.com/images/shine_2x.png</image:loc>
+      <image:loc>http://planet8.com/images/img_7479.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7479_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7466.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7466_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdycaption4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/bdycaption4_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7465.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/img_7465_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/270_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/310.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://planet8.com/images/310_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>

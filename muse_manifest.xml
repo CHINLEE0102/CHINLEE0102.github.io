@@ -1,27 +1,27 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="planet8.com" resolutions="1x,2x" timestamp="1626934648293">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="planet8.com" resolutions="1x,2x" timestamp="1627229699835">
   <folder name="css">
     <file name="site_global.css" crc="4241300980"/>
-    <file name="gallery.css" crc="4293302210" ref="gallery"/>
-    <file name="herewearethelight.css" crc="4255821337" ref="herewearethelight"/>
-    <file name="projects.css" crc="304564945" ref="projects"/>
-    <file name="badouyao.css" crc="464586692" ref="badouyao"/>
-    <file name="ariel-yu-name-card-design.css" crc="4246797430" ref="ariel-yu-name-card-design"/>
-    <file name="story.css" crc="290639535" ref="story"/>
-    <file name="index.css" crc="3818519323" ref="index"/>
-    <file name="2021cnycelebration.css" crc="72178099" ref="2021cnycelebration"/>
-    <file name="admire.css" crc="3998422767" ref="admire"/>
-    <file name="glimpse.css" crc="4025267815" ref="glimpse"/>
-    <file name="theunseenleader.css" crc="276727606" ref="theunseenleader"/>
-    <file name="be-the-spotlight.css" crc="3876667424" ref="be-the-spotlight"/>
+    <file name="index.css" crc="342768658" ref="index"/>
     <file name="become-one-of-us.css" crc="3930539247" ref="become-one-of-us"/>
-    <file name="gallery-admire.css" crc="4253966037" ref="gallery-admire"/>
-    <file name="gallery-followyourmind.css" crc="64959640" ref="gallery-followyourmind"/>
-    <file name="gallery-firstsight.css" crc="4268872319" ref="gallery-firstsight"/>
-    <file name="gallery-breakfast.css" crc="5102252" ref="gallery-breakfast"/>
-    <file name="gallery-imhome.css" crc="4195436297" ref="gallery-imhome"/>
+    <file name="ariel-yu-name-card-design.css" crc="4246797430" ref="ariel-yu-name-card-design"/>
     <file name="gallery-lins.css" crc="156050868" ref="gallery-lins"/>
+    <file name="theunseenleader.css" crc="276727606" ref="theunseenleader"/>
     <file name="gallery-cocacola.css" crc="3911627827" ref="gallery-cocacola"/>
+    <file name="herewearethelight.css" crc="4255821337" ref="herewearethelight"/>
+    <file name="badouyao.css" crc="464586692" ref="badouyao"/>
+    <file name="gallery-breakfast.css" crc="5102252" ref="gallery-breakfast"/>
+    <file name="be-the-spotlight.css" crc="3876667424" ref="be-the-spotlight"/>
+    <file name="gallery.css" crc="4108121030" ref="gallery"/>
+    <file name="gallery-followyourmind.css" crc="64959640" ref="gallery-followyourmind"/>
+    <file name="projects.css" crc="4225010738" ref="projects"/>
+    <file name="story.css" crc="3930915148" ref="story"/>
+    <file name="admire.css" crc="3998422767" ref="admire"/>
+    <file name="gallery-firstsight.css" crc="4268872319" ref="gallery-firstsight"/>
+    <file name="glimpse.css" crc="4025267815" ref="glimpse"/>
     <file name="gallery-glimpse.css" crc="3791281159" ref="gallery-glimpse"/>
+    <file name="gallery-admire.css" crc="4253966037" ref="gallery-admire"/>
+    <file name="2021cnycelebration.css" crc="72178099" ref="2021cnycelebration"/>
+    <file name="gallery-imhome.css" crc="4195436297" ref="gallery-imhome"/>
   </folder>
   <folder name="assets">
     <file name="20201216-001_李沁.tif" crc="4053288587" seo="true" mt="1608182491000"/>
@@ -31,15 +31,153 @@
     <file name="herewearethelight.mp4" crc="4056987714" seo="true" mt="1623913149000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:theunseenleader:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
-    <file name="museutils.js" crc="4232573551" ref="index:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:theunseenleader:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
-    <file name="whatinput.js" crc="86476730" ref="index:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:theunseenleader:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:theunseenleader:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:projects:theunseenleader:be-the-spotlight:gallery"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:theunseenleader:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
-    <file name="require.js" crc="4234670167" ref="index:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:theunseenleader:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:theunseenleader:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
+    <file name="museutils.js" crc="4232573551" ref="index:theunseenleader:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
+    <file name="whatinput.js" crc="86476730" ref="index:theunseenleader:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:theunseenleader:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:theunseenleader:projects:gallery:be-the-spotlight:story"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:theunseenleader:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
+    <file name="require.js" crc="4234670167" ref="index:theunseenleader:projects:gallery:story:glimpse:2021cnycelebration:ariel-yu-name-card-design:herewearethelight:admire:badouyao:be-the-spotlight:become-one-of-us:gallery-admire:gallery-firstsight:gallery-breakfast:gallery-followyourmind:gallery-cocacola:gallery-glimpse:gallery-imhome:gallery-lins"/>
   </folder>
   <folder name="images">
+    <file name="facebutton-1.png" crc="4152355094" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebutton-1_2x.png" crc="4030668197" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebutton-2 .png" crc="155818519" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebutton-2 _2x.png" crc="4187770937" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-button-1.png" crc="3778700319" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-button-1_2x.png" crc="4033706641" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-button-2.png" crc="4108323819" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-button-2_2x.png" crc="191619238" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brainbutton-1.png" crc="471637300" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brainbutton-1_2x.png" crc="168087933" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brainbutton-2 .png" crc="513063124" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brainbutton-2 _2x.png" crc="4055587792" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig_button-1.png" crc="4243610951" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig_button-1_2x.png" crc="3759848562" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig_button-2.png" crc="308119638" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig_button-2_2x.png" crc="375348298" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb_button-1.png" crc="4108675446" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb_button-1_2x.png" crc="95420555" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb_button-2.png" crc="4102015118" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb_button-2_2x.png" crc="58252611" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="theunseenleader-pagebg_工作區域 1.jpg" crc="286634437" seo="true" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="theunseenleader-pagebg_工作區域 1_2x.jpg" crc="3983448209" seo="true" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="community.png" crc="60232368" seo="true" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="spotlightbutton-圖稿 4.png" crc="48407541" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="spotlightbutton-圖稿 4_2x.png" crc="4051290618" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="spotlightbutton-圖稿 3.png" crc="231606361" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="spotlightbutton-圖稿 3_2x.png" crc="218162151" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="u5511-4.png" crc="3871954654" ref="theunseenleader"/>
+    <file name="u5511-4_2x.png" crc="3995107508" ref="theunseenleader"/>
+    <file name="u5759-4.png" crc="256874380" ref="theunseenleader"/>
+    <file name="u5759-4_2x.png" crc="407281800" ref="theunseenleader"/>
+    <file name="u5765-4.png" crc="4147975837" ref="theunseenleader"/>
+    <file name="u5765-4_2x.png" crc="4122364907" ref="theunseenleader"/>
+    <file name="u5516-4.png" crc="305602422" ref="theunseenleader"/>
+    <file name="u5516-4_2x.png" crc="4105757263" ref="theunseenleader"/>
+    <file name="u5521-4.png" crc="452911488" ref="theunseenleader"/>
+    <file name="u5521-4_2x.png" crc="295137281" ref="theunseenleader"/>
+    <file name="u5592-7.png" crc="4096505264" ref="theunseenleader"/>
+    <file name="u5592-7_2x.png" crc="4050743911" ref="theunseenleader"/>
+    <file name="u5601-7.png" crc="110958860" ref="theunseenleader"/>
+    <file name="u5601-7_2x.png" crc="130474876" ref="theunseenleader"/>
+    <file name="u5611-5.png" crc="138646282" ref="theunseenleader"/>
+    <file name="u5611-5_2x.png" crc="3933874850" ref="theunseenleader"/>
+    <file name="u5604-5.png" crc="3987684235" ref="theunseenleader"/>
+    <file name="u5604-5_2x.png" crc="3903332995" ref="theunseenleader"/>
+    <file name="u5608-5.png" crc="255809541" ref="theunseenleader"/>
+    <file name="u5608-5_2x.png" crc="3865357856" ref="theunseenleader"/>
+    <file name="u5595-9.png" crc="3852818054" ref="theunseenleader"/>
+    <file name="u5595-9_2x.png" crc="4181364360" ref="theunseenleader"/>
+    <file name="oneofus.png" crc="4228226854" seo="true" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="oneofus_2x.png" crc="3910598136" seo="true" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="shine.png" crc="3975156362" seo="true" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="shine_2x.png" crc="3890522322" seo="true" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="wwflogo_工作區域 1.png" crc="299255585" seo="true" ref="theunseenleader:be-the-spotlight:become-one-of-us">
+      <caption webpage="be-the-spotlight" alt=""/>
+      <caption webpage="be-the-spotlight" alt=""/>
+      <caption webpage="become-one-of-us" alt=""/>
+      <caption webpage="become-one-of-us" alt=""/>
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="theunseenleaderlogo_工作區域 1_工作區域 1149x13.png" crc="3970671458" seo="true" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="theunseenleaderlogo_工作區域 1_工作區域 1149x13_2x.png" crc="4200322723" seo="true" ref="theunseenleader">
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="duoleologo_工作區域 1.png" crc="4094862520" seo="true" ref="theunseenleader:be-the-spotlight:become-one-of-us">
+      <caption webpage="be-the-spotlight" alt=""/>
+      <caption webpage="become-one-of-us" alt=""/>
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
+    <file name="duoleologo_工作區域 1_2x.png" crc="3800252356" seo="true" ref="theunseenleader:be-the-spotlight:become-one-of-us">
+      <caption webpage="be-the-spotlight" alt=""/>
+      <caption webpage="become-one-of-us" alt=""/>
+      <caption webpage="theunseenleader" alt=""/>
+    </file>
     <file name="glimpsebutton-圖層 0.jpg" crc="278648090" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
@@ -116,6 +254,93 @@
     </file>
     <file name="u3917-4.png" crc="203116927" ref="gallery"/>
     <file name="u3917-4_2x.png" crc="44239555" ref="gallery"/>
+    <file name="admire-1.png" crc="3845441884" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="admire-1_2x.png" crc="3920476117" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="admire-2.png" crc="4242228671" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="admire-2_2x.png" crc="4222359202" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="admire-firstsight-1.png" crc="4089077355" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="admire-firstsight-2.png" crc="10042340" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="breakfast-1.jpg" crc="4190687435" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="breakfast-1_2x.jpg" crc="4132296365" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="breakfast-2.jpg" crc="48784394" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="breakfast-2_2x.jpg" crc="4196148676" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="follow_heart-1.png" crc="370044272" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="follow_heart-1_2x.png" crc="410692236" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="follow_heart-2.png" crc="432925255" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="follow_heart-2_2x.png" crc="3930971104" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cocacola-1.png" crc="386161440" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cocacola-1_2x.png" crc="4199693687" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cocacola-2.png" crc="530888511" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cocacola-2_2x.png" crc="493410808" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="glimpse-1.jpg" crc="3820759072" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="glimpse-2.jpg" crc="3783319773" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="lins-1.jpg" crc="4071358239" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="lins-1_2x.jpg" crc="436946435" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="lins-2.jpg" crc="4014932811" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="lins-2_2x.jpg" crc="4242193322" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="imhome-1.jpg" crc="3966115009" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="imhome-1_2x.jpg" crc="3871050741" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="imhome-2.jpg" crc="395186443" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="imhome-2_2x.jpg" crc="3926249411" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="about_me.jpg" crc="3761862970" seo="true" ref="story">
+      <caption webpage="story" alt=""/>
+    </file>
     <file name="glimpse.png" crc="266218573" seo="true" ref="glimpse">
       <caption webpage="glimpse" alt=""/>
     </file>
@@ -293,75 +518,6 @@
     <file name="310_2x.jpg" crc="4224289204" seo="true" ref="badouyao">
       <caption webpage="badouyao" alt=""/>
     </file>
-    <file name="spotlightbutton-圖稿 4.png" crc="48407541" ref="theunseenleader">
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="spotlightbutton-圖稿 4_2x.png" crc="4051290618" ref="theunseenleader">
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="spotlightbutton-圖稿 3.png" crc="231606361" ref="theunseenleader">
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="spotlightbutton-圖稿 3_2x.png" crc="218162151" ref="theunseenleader">
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="theunseenleader-pagebg_工作區域 1.jpg" crc="286634437" seo="true" ref="theunseenleader">
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="theunseenleader-pagebg_工作區域 1_2x.jpg" crc="3983448209" seo="true" ref="theunseenleader">
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="u5511-4.png" crc="3871954654" ref="theunseenleader"/>
-    <file name="u5511-4_2x.png" crc="3995107508" ref="theunseenleader"/>
-    <file name="u5516-4.png" crc="305602422" ref="theunseenleader"/>
-    <file name="u5516-4_2x.png" crc="4105757263" ref="theunseenleader"/>
-    <file name="u5521-4.png" crc="452911488" ref="theunseenleader"/>
-    <file name="u5521-4_2x.png" crc="295137281" ref="theunseenleader"/>
-    <file name="wwflogo_工作區域 1.png" crc="299255585" seo="true" ref="theunseenleader:be-the-spotlight:become-one-of-us">
-      <caption webpage="be-the-spotlight" alt=""/>
-      <caption webpage="be-the-spotlight" alt=""/>
-      <caption webpage="become-one-of-us" alt=""/>
-      <caption webpage="become-one-of-us" alt=""/>
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="theunseenleaderlogo_工作區域 1_工作區域 1.png" crc="201919530" seo="true" ref="become-one-of-us">
-      <caption webpage="be-the-spotlight" alt=""/>
-      <caption webpage="become-one-of-us" alt=""/>
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="theunseenleaderlogo_工作區域 1_工作區域 1_2x.png" crc="4033970985" seo="true" ref="become-one-of-us">
-      <caption webpage="be-the-spotlight" alt=""/>
-      <caption webpage="become-one-of-us" alt=""/>
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="duoleologo_工作區域 1.png" crc="4094862520" seo="true" ref="theunseenleader:be-the-spotlight:become-one-of-us">
-      <caption webpage="be-the-spotlight" alt=""/>
-      <caption webpage="become-one-of-us" alt=""/>
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="duoleologo_工作區域 1_2x.png" crc="3800252356" seo="true" ref="theunseenleader:be-the-spotlight:become-one-of-us">
-      <caption webpage="be-the-spotlight" alt=""/>
-      <caption webpage="become-one-of-us" alt=""/>
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="u5592-7.png" crc="4096505264" ref="theunseenleader"/>
-    <file name="u5592-7_2x.png" crc="4050743911" ref="theunseenleader"/>
-    <file name="u5601-7.png" crc="110958860" ref="theunseenleader"/>
-    <file name="u5601-7_2x.png" crc="130474876" ref="theunseenleader"/>
-    <file name="u5611-5.png" crc="138646282" ref="theunseenleader"/>
-    <file name="u5611-5_2x.png" crc="3933874850" ref="theunseenleader"/>
-    <file name="u5604-5.png" crc="3987684235" ref="theunseenleader"/>
-    <file name="u5604-5_2x.png" crc="3903332995" ref="theunseenleader"/>
-    <file name="u5608-5.png" crc="255809541" ref="theunseenleader"/>
-    <file name="u5608-5_2x.png" crc="3865357856" ref="theunseenleader"/>
-    <file name="u5595-9.png" crc="3852818054" ref="theunseenleader"/>
-    <file name="u5595-9_2x.png" crc="4181364360" ref="theunseenleader"/>
-    <file name="oneofus.png" crc="4228226854" seo="true" ref="theunseenleader">
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="oneofus_2x.png" crc="3910598136" seo="true" ref="theunseenleader">
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
     <file name="theunseenleader-pagebgs-02.jpg" crc="3899485067" seo="true" ref="be-the-spotlight">
       <caption webpage="be-the-spotlight" alt=""/>
     </file>
@@ -372,47 +528,6 @@
     <file name="u5718-5_2x.png" crc="3933874850" ref="be-the-spotlight"/>
     <file name="u5719-5.png" crc="255809541" ref="be-the-spotlight"/>
     <file name="u5719-5_2x.png" crc="3865357856" ref="be-the-spotlight"/>
-    <file name="theunseenleader-pagebgs-03.jpg" crc="4239234943" seo="true" ref="become-one-of-us">
-      <caption webpage="become-one-of-us" alt=""/>
-    </file>
-    <file name="theunseenleader-pagebgs-03_2x.jpg" crc="283037239" seo="true" ref="become-one-of-us">
-      <caption webpage="become-one-of-us" alt=""/>
-    </file>
-    <file name="u5738-7.png" crc="69865766" ref="become-one-of-us"/>
-    <file name="u5738-7_2x.png" crc="3946446508" ref="become-one-of-us"/>
-    <file name="u5739-5.png" crc="42583243" ref="become-one-of-us"/>
-    <file name="u5739-5_2x.png" crc="4178527884" ref="become-one-of-us"/>
-    <file name="u5759-4.png" crc="256874380" ref="theunseenleader"/>
-    <file name="u5759-4_2x.png" crc="407281800" ref="theunseenleader"/>
-    <file name="u5765-4.png" crc="4147975837" ref="theunseenleader"/>
-    <file name="u5765-4_2x.png" crc="4122364907" ref="theunseenleader"/>
-    <file name="theunseenleaderlogo_工作區域 1.png" crc="380472891" seo="true" ref="be-the-spotlight">
-      <caption webpage="be-the-spotlight" alt=""/>
-    </file>
-    <file name="theunseenleaderlogo_工作區域 1_2x.png" crc="4209430425" seo="true" ref="be-the-spotlight">
-      <caption webpage="be-the-spotlight" alt=""/>
-    </file>
-    <file name="theunseenleaderlogo_工作區域 1_工作區域 1149x13.png" crc="3970671458" seo="true" ref="theunseenleader">
-      <caption webpage="be-the-spotlight" alt=""/>
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="theunseenleaderlogo_工作區域 1_工作區域 1149x13_2x.png" crc="4200322723" seo="true" ref="theunseenleader">
-      <caption webpage="be-the-spotlight" alt=""/>
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="community.png" crc="60232368" seo="true" ref="theunseenleader">
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="u5835-4.png" crc="4082828919" ref="become-one-of-us"/>
-    <file name="u5835-4_2x.png" crc="3793667784" ref="become-one-of-us"/>
-    <file name="u5841-4.png" crc="4082828919" ref="become-one-of-us"/>
-    <file name="u5841-4_2x.png" crc="3793667784" ref="become-one-of-us"/>
-    <file name="shine.png" crc="3975156362" seo="true" ref="theunseenleader">
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
-    <file name="shine_2x.png" crc="3890522322" seo="true" ref="theunseenleader">
-      <caption webpage="theunseenleader" alt=""/>
-    </file>
     <file name="shineobutton-圖層 1 拷貝.png" crc="4211084851" ref="be-the-spotlight">
       <caption webpage="be-the-spotlight" alt=""/>
     </file>
@@ -449,110 +564,31 @@
     <file name="shineabutton-shine3_工作區域 1_2x.png" crc="4008902529" ref="be-the-spotlight">
       <caption webpage="be-the-spotlight" alt=""/>
     </file>
-    <file name="facebutton-1.png" crc="4152355094" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="theunseenleaderlogo_工作區域 1.png" crc="380472891" seo="true" ref="be-the-spotlight">
+      <caption webpage="be-the-spotlight" alt=""/>
     </file>
-    <file name="facebutton-1_2x.png" crc="4030668197" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="theunseenleaderlogo_工作區域 1_2x.png" crc="4209430425" seo="true" ref="be-the-spotlight">
+      <caption webpage="be-the-spotlight" alt=""/>
     </file>
-    <file name="brainbutton-1.png" crc="471637300" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="theunseenleader-pagebgs-03.jpg" crc="4239234943" seo="true" ref="become-one-of-us">
+      <caption webpage="become-one-of-us" alt=""/>
     </file>
-    <file name="brainbutton-1_2x.png" crc="168087933" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="theunseenleader-pagebgs-03_2x.jpg" crc="283037239" seo="true" ref="become-one-of-us">
+      <caption webpage="become-one-of-us" alt=""/>
     </file>
-    <file name="hand-button-1.png" crc="3778700319" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="u5738-7.png" crc="69865766" ref="become-one-of-us"/>
+    <file name="u5738-7_2x.png" crc="3946446508" ref="become-one-of-us"/>
+    <file name="u5739-5.png" crc="42583243" ref="become-one-of-us"/>
+    <file name="u5739-5_2x.png" crc="4178527884" ref="become-one-of-us"/>
+    <file name="u5835-4.png" crc="4082828919" ref="become-one-of-us"/>
+    <file name="u5835-4_2x.png" crc="3793667784" ref="become-one-of-us"/>
+    <file name="u5841-4.png" crc="4082828919" ref="become-one-of-us"/>
+    <file name="u5841-4_2x.png" crc="3793667784" ref="become-one-of-us"/>
+    <file name="theunseenleaderlogo_工作區域 1_工作區域 1.png" crc="201919530" seo="true" ref="become-one-of-us">
+      <caption webpage="become-one-of-us" alt=""/>
     </file>
-    <file name="hand-button-1_2x.png" crc="4033706641" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hand-button-2.png" crc="4108323819" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hand-button-2_2x.png" crc="191619238" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ig_button-1.png" crc="3855886657" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ig_button-1_2x.png" crc="3785975646" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ig_button-2.png" crc="6770822" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ig_button-2_2x.png" crc="4033022551" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fb_button-1.png" crc="3807596392" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fb_button-1_2x.png" crc="4155710393" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fb_button-2.png" crc="4283244938" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fb_button-2_2x.png" crc="4241423997" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="aboutme_try1.jpg" crc="3839290239" seo="true" ref="story">
-      <caption webpage="story" alt=""/>
-    </file>
-    <file name="admire-1.png" crc="3845441884" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="admire-1_2x.png" crc="3920476117" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="admire-2.png" crc="4242228671" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="admire-2_2x.png" crc="4222359202" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="follow_heart-1.png" crc="370044272" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="follow_heart-1_2x.png" crc="410692236" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="follow_heart-2.png" crc="432925255" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="follow_heart-2_2x.png" crc="3930971104" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="admire-firstsight-1.png" crc="4089077355" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="admire-firstsight-2.png" crc="10042340" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="breakfast-1.jpg" crc="4190687435" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="breakfast-1_2x.jpg" crc="4132296365" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="breakfast-2.jpg" crc="48784394" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="breakfast-2_2x.jpg" crc="4196148676" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="cocacola-1.png" crc="386161440" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="cocacola-1_2x.png" crc="4199693687" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="cocacola-2.png" crc="530888511" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="cocacola-2_2x.png" crc="493410808" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="theunseenleaderlogo_工作區域 1_工作區域 1_2x.png" crc="4033970985" seo="true" ref="become-one-of-us">
+      <caption webpage="become-one-of-us" alt=""/>
     </file>
     <file name="admire.jpg" crc="4059532859" seo="true" ref="gallery-admire">
       <caption webpage="gallery-admire" alt=""/>
@@ -578,36 +614,6 @@
     <file name="follow_2x.jpg" crc="533647445" seo="true" ref="gallery-followyourmind">
       <caption webpage="gallery-followyourmind" alt=""/>
     </file>
-    <file name="glimpse-1.jpg" crc="3820759072" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="glimpse-2.jpg" crc="3783319773" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="lins-1.jpg" crc="4071358239" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="lins-1_2x.jpg" crc="436946435" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="lins-2.jpg" crc="4014932811" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="lins-2_2x.jpg" crc="4242193322" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="imhome-1.jpg" crc="3966115009" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="imhome-1_2x.jpg" crc="3871050741" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="imhome-2.jpg" crc="395186443" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="imhome-2_2x.jpg" crc="3926249411" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
     <file name="cocacola.jpg" crc="10593845" seo="true" ref="gallery-cocacola">
       <caption webpage="gallery-cocacola" alt=""/>
     </file>
@@ -632,38 +638,38 @@
     <file name="lins_2x.jpg" crc="228067198" seo="true" ref="gallery-lins">
       <caption webpage="gallery-lins" alt=""/>
     </file>
-    <file name="brainbutton-2 .png" crc="513063124" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="back_button-1.png" crc="415632245" ref="projects:gallery:story">
+      <caption webpage="projects" alt=""/>
     </file>
-    <file name="brainbutton-2 _2x.png" crc="4055587792" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="back_button-1_2x.png" crc="4197638991" ref="projects:gallery:story">
+      <caption webpage="projects" alt=""/>
     </file>
-    <file name="facebutton-2 .png" crc="155818519" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="back_button-2.png" crc="257796423" ref="projects:gallery:story">
+      <caption webpage="projects" alt=""/>
     </file>
-    <file name="facebutton-2 _2x.png" crc="4187770937" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="back_button-2_2x.png" crc="4256626798" ref="projects:gallery:story">
+      <caption webpage="projects" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="20657063" seo="true" mt="1626934478375" redirect="true"/>
-  <file name="projects.html" crc="313606787" seo="true" mt="1624274316662" redirect="true"/>
-  <file name="gallery.html" crc="3764750458" seo="true" mt="1626934112841" redirect="true"/>
-  <file name="story.html" crc="212650810" seo="true" mt="1626932705613" redirect="true"/>
+  <file name="index.html" crc="460345380" seo="true" mt="1627229302481" redirect="true"/>
+  <file name="theunseenleader.html" crc="4092970136" seo="true" mt="1624784421942" redirect="true"/>
+  <file name="projects.html" crc="33631686" seo="true" mt="1627229697457" redirect="true"/>
+  <file name="gallery.html" crc="4017349529" seo="true" mt="1627229697453" redirect="true"/>
+  <file name="story.html" crc="3979294299" seo="true" mt="1627229697455" redirect="true"/>
   <file name="glimpse.html" crc="4207622781" seo="true" mt="1624255819874" redirect="true"/>
   <file name="2021cnycelebration.html" crc="4088667785" seo="true" mt="1613309105502" redirect="true"/>
   <file name="ariel-yu-name-card-design.html" crc="4204275996" seo="true" mt="1613309810249" redirect="true"/>
   <file name="herewearethelight.html" crc="427153040" seo="true" mt="1624269319339" redirect="true"/>
   <file name="admire.html" crc="7689474" seo="true" mt="1624262078366" redirect="true"/>
   <file name="badouyao.html" crc="261804643" seo="true" mt="1624282529053" redirect="true"/>
-  <file name="theunseenleader.html" crc="174269776" seo="true" mt="1624784421942" redirect="true"/>
-  <file name="be-the-spotlight.html" crc="3761746229" seo="true" mt="1624784361341" redirect="true"/>
-  <file name="become-one-of-us.html" crc="4010443785" seo="true" mt="1624781763478" redirect="true"/>
-  <file name="gallery-admire.html" crc="3847697819" seo="true" mt="1626933596478" redirect="true"/>
-  <file name="gallery-firstsight.html" crc="216984853" seo="true" mt="1626933600777" redirect="true"/>
-  <file name="gallery-breakfast.html" crc="94377810" seo="true" mt="1626933604339" redirect="true"/>
-  <file name="gallery-followyourmind.html" crc="3789938093" seo="true" mt="1626933607486" redirect="true"/>
-  <file name="gallery-cocacola.html" crc="37355077" seo="true" mt="1626933793251" redirect="true"/>
-  <file name="gallery-glimpse.html" crc="385966115" seo="true" mt="1626933872868" redirect="true"/>
-  <file name="gallery-imhome.html" crc="4093382474" seo="true" mt="1626933945937" redirect="true"/>
-  <file name="gallery-lins.html" crc="23298340" seo="true" mt="1626934037434" redirect="true"/>
+  <file name="be-the-spotlight.html" crc="4006669363" seo="true" mt="1624784361341" redirect="true"/>
+  <file name="become-one-of-us.html" crc="104010183" seo="true" mt="1624781763478" redirect="true"/>
+  <file name="gallery-admire.html" crc="297574306" seo="true" mt="1626933596478" redirect="true"/>
+  <file name="gallery-firstsight.html" crc="2703766" seo="true" mt="1626933600777" redirect="true"/>
+  <file name="gallery-breakfast.html" crc="135901083" seo="true" mt="1626933604339" redirect="true"/>
+  <file name="gallery-followyourmind.html" crc="4041437482" seo="true" mt="1626933607486" redirect="true"/>
+  <file name="gallery-cocacola.html" crc="298295942" seo="true" mt="1626933793251" redirect="true"/>
+  <file name="gallery-glimpse.html" crc="231641538" seo="true" mt="1626933872868" redirect="true"/>
+  <file name="gallery-imhome.html" crc="4223526696" seo="true" mt="1626933945937" redirect="true"/>
+  <file name="gallery-lins.html" crc="98479669" seo="true" mt="1626934037434" redirect="true"/>
 </manifest>
